@@ -1,0 +1,6 @@
+[submodule "hi-integration-confused-seeker"]
+	path = hi-integration-confused-seeker
+	url = https://github.com/iamhi/hi-integration-confused-seeker.git
+[submodule "hi-integration-wild-server"]
+	path = hi-integration-wild-server
+	url = https://github.com/iamhi/hi-integration-wild-server.git
