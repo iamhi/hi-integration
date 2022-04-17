@@ -4,3 +4,6 @@
 [submodule "hi-integration-wild-server"]
 	path = hi-integration-wild-server
 	url = https://github.com/iamhi/hi-integration-wild-server.git
+[submodule "hi-integration-config-server"]
+	path = hi-integration-config-server
+	url = https://github.com/iamhi/hi-integration-config-server.git
